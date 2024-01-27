@@ -1,7 +1,7 @@
 # GAMES101-Homework
 Codes of Homework 1 to 8 are deposited in corresponding branches.
 
-Homework 3 to 8 have effect picture in README.md respectively.
+Homework 3 to 8 have effect pictures in README.md respectively.
 
 Brief summaries of 8 Homeworks are as follows``(※ means extra point)``:
 
